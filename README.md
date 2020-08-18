@@ -15,14 +15,14 @@ description: Learning DSA and Algo to 10x
 
 **Here is a list of data structures to master :**
 
-* Arrays and Lists
+* [Arrays and Lists](arrays.md)
 * 2D Arrays
 * Strings
 * Linked List
 * Stack
 * Queue
 * Hash Table & Hash Set
-* Heap
+* [Heap](heap.md)
 * Graphs
 * Binary Tree
 * Binary Search Tree
