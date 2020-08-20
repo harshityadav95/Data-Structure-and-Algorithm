@@ -4,6 +4,17 @@ description: Learning DSA and Algo to 10x
 
 # Data Strucure and Algo Guide
 
+### Dream Comapnies 
+
+* Microsoft 
+* Google 
+* Apple
+* Facebook
+* Twitter 
+* Wallmart
+
+### Coding Platforms
+
 * Codeforce
 * Codechef
 * Topcoder
