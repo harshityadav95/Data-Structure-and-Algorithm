@@ -53,7 +53,11 @@ And this is one of many techniques you can isolate. Here are some other common o
 
 Reference :  
 
-[https://github.com/labuladong/fucking-algorithm/tree/english](https://github.com/labuladong/fucking-algorithm/tree/english)
+{% embed url="https://github.com/labuladong/fucking-algorithm/tree/english" %}
+
+{% embed url="https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4" %}
+
+
 
 
 
