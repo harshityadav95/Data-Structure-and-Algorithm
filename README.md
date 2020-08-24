@@ -12,6 +12,11 @@ description: Learning DSA and Algo to 10x
 * Facebook
 * Twitter 
 * Wallmart
+* GoldmanSachs
+* Mckensy
+* Nvidia
+
+
 
 ### Coding Platforms
 
