@@ -9,11 +9,12 @@ else return(0);
 // Your code here
 ```
 
-* [DSA Mathemetics Question : Bits in a Number](https://github.com/harshityadav95/Data-Structure-and-Algorithm/wiki/DSA-Mathemetics-Question-:-Bits-in-a-Number)
+### Why do we use Modulo in some Numbers ?
 
-```text
+ The reason of taking **Mod is** to prevent integer overflows , Mod each number individually and the remainder too
 
-```
+* Multiplication using Modulo  
+* Addition using Modulo
 
 
 
