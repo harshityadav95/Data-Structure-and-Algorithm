@@ -51,7 +51,9 @@ And this is one of many techniques you can isolate. Here are some other common o
 * Hash Table + Linked List combination
 * Searching a Binary Tree etc.
 
-Reference :  
+Reference :
+
+[https://catonmat.net/summary-of-mit-introduction-to-algorithms](https://catonmat.net/summary-of-mit-introduction-to-algorithms)
 
 {% embed url="https://github.com/labuladong/fucking-algorithm/tree/english" %}
 
