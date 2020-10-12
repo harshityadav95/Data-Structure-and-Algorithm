@@ -25,3 +25,7 @@
 * [Segment-Tree](segment-tree.md)
 * [Disjoint Set](disjoint-set.md)
 
+## Apti +Puzzles
+
+* [Aptitude Questions](apti-+puzzles/aptitude-questions.md)
+
