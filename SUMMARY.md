@@ -27,5 +27,6 @@
 
 ## Apti +Puzzles
 
+* [CS Question Solver](apti-+puzzles/cs-question-solver.md)
 * [Aptitude Questions](apti-+puzzles/aptitude-questions.md)
 
