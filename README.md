@@ -1,7 +1,3 @@
----
-description: Learning DSA and Algo to 10x
----
-
 # Data Strucure and Algo Guide
 
 ### Dream Comapnies 
@@ -59,11 +55,9 @@ And this is one of many techniques you can isolate. Here are some other common o
 
 Reference :
 
-[https://catonmat.net/summary-of-mit-introduction-to-algorithms](https://catonmat.net/summary-of-mit-introduction-to-algorithms)
-
-{% embed url="https://github.com/labuladong/fucking-algorithm/tree/english" %}
-
-{% embed url="https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4" %}
+* [https://catonmat.net/summary-of-mit-introduction-to-algorithms](https://catonmat.net/summary-of-mit-introduction-to-algorithms)
+* [https://github.com/labuladong/fucking-algorithm/tree/english](https://github.com/labuladong/fucking-algorithm/tree/english)
+* [https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4](https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4)
 
 
 
