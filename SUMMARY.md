@@ -38,3 +38,7 @@
 
 * [Interview Approach](interview-approach.md)
 
+## 1000x Engineer
+
+* [Timeline for Study](1000x-engineer/timeline-for-study.md)
+

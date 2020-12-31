@@ -15,6 +15,12 @@ description: Learning DSA and Algo to 10x
 * GoldmanSachs
 * Mckensy
 * Nvidia
+* Apple
+* Mckinsey
+* GoldmanSachs
+* Netflix
+
+
 
 
 
