@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Strucure and Algo Guide](README.md)
+* [Time Complexity](time-complexity.md)
 * [Introduction](introduction.md)
 * [Mathematics](mathematics.md)
 * [Recursion](recursion.md)
