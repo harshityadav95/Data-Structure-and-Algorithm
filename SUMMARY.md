@@ -42,4 +42,5 @@
 ## 1000x Engineer
 
 * [Timeline for Study](1000x-engineer/timeline-for-study.md)
+* [Resume](1000x-engineer/resume.md)
 
