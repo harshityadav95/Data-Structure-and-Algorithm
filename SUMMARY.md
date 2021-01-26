@@ -34,6 +34,10 @@
 ## Company
 
 * [Google](company/google.md)
+* [Microsoft](company/microsoft.md)
+* [Uber](company/uber.md)
+* [Amazon](company/amazon.md)
+* [Atlassian](company/atlassian.md)
 
 ---
 
