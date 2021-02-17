@@ -4,5 +4,7 @@
 * \(Best Case\) Omega Notation
 * \(Avg Case\) Theta notation
 
+![](.gitbook/assets/image.png)
+
 
 
