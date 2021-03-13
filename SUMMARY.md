@@ -48,4 +48,5 @@
 
 * [Timeline for Study](1000x-engineer/timeline-for-study.md)
 * [Resume](1000x-engineer/resume.md)
+* [Pass Coding Interviews](1000x-engineer/pass-coding-interviews.md)
 
