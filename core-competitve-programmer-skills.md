@@ -36,6 +36,53 @@
 * Presentation Error
 * Wrong Answer
 
+### Understanding the problem statement 
+
+* Problem statement  
+* Input Format \(range of input , string size\)
+* Output 
+* Sample Input
+
+### Steps in solving a problem  
+
+* Read the statment
+* Formalize it
+* Invent a solution
+* Prove it - taking wrong assumptions in writing the solution
+* Implement it
+* test the implementation
+* Debug if not working
+* Submit the Solution
+
+### Soft Skills  
+
+* Ask Community for Help
+* Problem posted should be easily to recreate
+* Have the project file for the code already created 
+* Prepare the template code that can run your logic and not start from scratch
+* make backup of codes  using folder or versioning
+
+### Start with the Participation online
+
+* Participate in time  based competition
+* solving problems from the archives
+* Learn additional algorithm when needed
+* Participate in Online competition  Single round matches
+
+### Testing
+
+* Sample test cases 
+* Minimal test cases \(1,0 ,-1\)
+* Maximal test case \(Numbers in large range 10^9, Integer overflow\)
+
+
+
+
+
+
+
+
+
 
 
 
