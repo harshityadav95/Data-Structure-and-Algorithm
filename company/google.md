@@ -1,5 +1,7 @@
 # Google
 
+* \*\*\*\*[**Preparing for the Google SWE Interview**](https://medium.com/jinal-parikh/preparing-for-the-google-swe-interview-11c719ede482)\*\*\*\*
+
 ## Google @SD2 <a id="9dd8"></a>
 
 The recruiter reached out to me.
