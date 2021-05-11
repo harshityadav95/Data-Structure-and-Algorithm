@@ -10,3 +10,7 @@
 * Will the input all be in the same case?
 * Does punctuation need to be considered?
 
+
+
+* \*\*\*\*[**Ace the coding interview: How I got offers at Google and Facebook, twice!**](https://mjbleong.medium.com/ace-the-coding-interview-how-i-got-offers-at-google-and-facebook-twice-d5083fcca17d)\*\*\*\*
+
