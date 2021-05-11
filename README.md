@@ -15,6 +15,22 @@
 * Mckinsey
 * GoldmanSachs
 * Netflix
+* Intuit
+* Sumologic
+* Tower Research  
+* De Shaw
+* Arcesium
+* Atlassian
+* Uber
+* NasdaQ
+* BnY Mellon
+* Adobe  
+* GE digital  
+* Linkedin
+* Qualcom  
+* Synopsys
+
+
 
 
 
