@@ -53,3 +53,7 @@
 * [Pass Coding Interviews](1000x-engineer/pass-coding-interviews.md)
 * [Compiler Design](1000x-engineer/compiler-design.md)
 
+---
+
+* [Fun Interview Questions](fun-interview-questions.md)
+
