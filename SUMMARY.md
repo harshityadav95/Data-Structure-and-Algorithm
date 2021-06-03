@@ -42,6 +42,7 @@
 * [Amazon](company/amazon.md)
 * [Atlassian](company/atlassian.md)
 * [Facebook](company/facebook.md)
+* [Apple](company/apple.md)
 
 ---
 
