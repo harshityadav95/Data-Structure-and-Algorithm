@@ -1,5 +1,11 @@
 # Amazon
 
+**Amazon @SD1**
+
+* [**https://mukhtardanish24.medium.com/amazon-interview-experience-for-sde-1-role-652aa3912252**](https://mukhtardanish24.medium.com/amazon-interview-experience-for-sde-1-role-652aa3912252)\*\*\*\*
+* 
+\*\*\*\*
+
 **Amazon @SD2**
 
 The recruiter reached out to me on LinkedIn.
