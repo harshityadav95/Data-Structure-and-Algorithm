@@ -2,6 +2,7 @@
 
 * [Data Strucure and Algo Guide](README.md)
 * [Core Competitve Programmer Skills](core-competitve-programmer-skills.md)
+* [Naming Convention](naming-convention.md)
 * [Algorithm Design](algorithm-design.md)
 * [Time Complexity](time-complexity.md)
 * [Introduction](introduction.md)
