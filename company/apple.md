@@ -115,7 +115,7 @@ Solution — Ask for the range of the number \(example up to 100\) and then gene
 
 9. Write a program that uses two threads to print the numbers from 1 to n. [**Solution**](https://www.geeksforgeeks.org/print-even-and-odd-numbers-in-increasing-order-using-two-threads-in-java/)
 
-10. Print the different ways to open and close brackets with x opens. For 3, this would be : {{{}}}, {}{}{}, {{}{}} {{}}{}, {}{{}}. [**Solution**.](https://www.geeksforgeeks.org/print-all-combinations-of-balanced-parentheses/)
+10. Print the different ways to open and close brackets with x opens. For 3, this would be : . [**Solution**.](https://www.geeksforgeeks.org/print-all-combinations-of-balanced-parentheses/)
 
 11. Sort an array of 10M unique ints faster than merge/quick sort. Solution: Since we know the range, use [**radix sort.**](https://www.geeksforgeeks.org/radix-sort/)
 
