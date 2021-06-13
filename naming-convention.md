@@ -1,4 +1,4 @@
-# Naming Convention
+# Naming StyleGuide
 
 #### C and C++\[[edit](https://en.wikipedia.org/w/index.php?title=Naming_convention_%28programming%29&action=edit&section=19)\]
 
