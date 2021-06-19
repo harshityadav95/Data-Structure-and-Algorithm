@@ -13,4 +13,5 @@
 
 
 * \*\*\*\*[**Ace the coding interview: How I got offers at Google and Facebook, twice!**](https://mjbleong.medium.com/ace-the-coding-interview-how-i-got-offers-at-google-and-facebook-twice-d5083fcca17d)\*\*\*\*
+* [Prepare for a Google or other software developer coding interview in 10 days](https://levelup.gitconnected.com/prepare-for-a-google-or-other-software-developer-coding-interview-in-10-days-44f3d488f7ea)
 
