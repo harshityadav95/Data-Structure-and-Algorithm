@@ -61,7 +61,11 @@ Well, we could use an array. Suppose that we have this array of numbers, **that 
 
 Now the question we face is, what values do we initialize each index with? Well, since we’re dealing with minimums, values are often initialized to **Infinity** \(∞\). The logic is that at this moment, the minimum number of coins to make each amount is infinite:![](https://miro.medium.com/max/60/1*NRcMxJSkrteqxBGg3SE_-g.png?q=20)![](https://miro.medium.com/max/1003/1*NRcMxJSkrteqxBGg3SE_-g.png)
 
-**But, there’s one important thing to note.** Assuming that we’re only given positive value coins, we know that it is impossible to make an amount of 0 using any of the coins. So, we can say that there are 0 ways of making 0:![](https://miro.medium.com/max/60/1*K8YT3wDm_LyJjoV0GrRxbQ.png?q=20)![](https://miro.medium.com/max/1006/1*K8YT3wDm_LyJjoV0GrRxbQ.png)There are 0 ways to make an amount of 0 with positive coin values
+**But, there’s one important thing to note.** Assuming that we’re only given positive value coins, we know that it is impossible to make an amount of 0 using any of the coins. So, we can say that there are 0 ways of making 0:There are 0 ways to make an amount of 0 with positive coin values
+
+![](https://miro.medium.com/max/60/1*K8YT3wDm_LyJjoV0GrRxbQ.png?q=20)
+
+![](https://miro.medium.com/max/1006/1*K8YT3wDm_LyJjoV0GrRxbQ.png)
 
 Okay, now let’s look at _**each coin separately**_ to see how many of a specific coin can make each amount. Since our first coin is the _**1-coin**_, we’re going to ask: “Using just _**1-coins**_, how many coins does it take to make a value of amount: 1? 2? … 11?”
 
