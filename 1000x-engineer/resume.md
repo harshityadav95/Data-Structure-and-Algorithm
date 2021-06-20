@@ -14,3 +14,7 @@
 
 **Extra-Curricular** — This is an optional section and include only if you have place left to fill. Also include activities that are more related.
 
+
+
+![](../.gitbook/assets/image%20%284%29.png)
+
