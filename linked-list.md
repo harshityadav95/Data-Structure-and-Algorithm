@@ -1,6 +1,10 @@
 # Linked List
 
-*  Contains Duplicate III \([Source](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/discuss/824603/Python-SortedList-O%28n-log-k%29-solution-explained.)\)
+ 
+
+![](.gitbook/assets/image%20%2811%29.png)
+
+* Contains Duplicate III \([Source](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/discuss/824603/Python-SortedList-O%28n-log-k%29-solution-explained.)\)
 
 ```text
 from sortedcontainers import SortedList
