@@ -16,3 +16,9 @@
 
 ![](.gitbook/assets/image%20%283%29.png)
 
+### Data Structure Visualization
+
+* [https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+
+
