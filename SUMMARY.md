@@ -61,3 +61,7 @@
 * [Fun Interview Questions](fun-interview-questions.md)
 * [Questions Table](questions-table.md)
 
+## 365 Days Plans
+
+* [Day 1](365-days-plans/day-1.md)
+
