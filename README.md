@@ -1,41 +1,5 @@
 # Data Strucure and Algo Guide
 
-### Dream Comapnies 
-
-* Microsoft 
-* Google 
-* Apple
-* Facebook
-* Twitter 
-* Wallmart
-* GoldmanSachs
-* Mckensy
-* Nvidia
-* Apple
-* Mckinsey
-* GoldmanSachs
-* Netflix
-* Intuit
-* Sumologic
-* Tower Research  
-* De Shaw
-* Arcesium
-* Atlassian
-* Uber
-* NasdaQ
-* BnY Mellon
-* Adobe  
-* GE digital  
-* Linkedin
-* Qualcom  
-* Synopsys
-
-
-
-
-
-
-
 ### Coding Platforms
 
 * Codeforce
