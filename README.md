@@ -33,6 +33,14 @@ And this is one of many techniques you can isolate. Here are some other common o
 * Hash Table + Linked List combination
 * Searching a Binary Tree etc.
 
+### Books
+
+*  DSA Cormen
+* DSA Narasimha Karumanchi
+* Cracking the coding interview
+* Headfirst design patterns
+* C Programming Concepts
+
 Reference :
 
 * [https://catonmat.net/summary-of-mit-introduction-to-algorithms](https://catonmat.net/summary-of-mit-introduction-to-algorithms)
