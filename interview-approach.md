@@ -1,6 +1,6 @@
 # Interview Approach
 
-
+[https://techinterviewhandbook.org/](https://techinterviewhandbook.org/)
 
 * What data type will the input be? Will it always be the same data type?
 * Is it possible to get an empty input?
