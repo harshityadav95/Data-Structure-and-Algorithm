@@ -2,9 +2,10 @@
 
 **Amazon @SD1**
 
-* [**https://mukhtardanish24.medium.com/amazon-interview-experience-for-sde-1-role-652aa3912252**](https://mukhtardanish24.medium.com/amazon-interview-experience-for-sde-1-role-652aa3912252)\*\*\*\*
-* 
-\*\*\*\*
+* [**https://mukhtardanish24.medium.com/amazon-interview-experience-for-sde-1-role-652aa3912252**](https://mukhtardanish24.medium.com/amazon-interview-experience-for-sde-1-role-652aa3912252)****
+*
+
+****
 
 **Amazon @SD2**
 
@@ -17,4 +18,3 @@ In almost every round, there were questions to test amazon leadership principles
 3. Round 3 : HLD round + Amazon Leadership Principles
 4. Round 4 : HLD round + Hiring Manager
 5. Round 5 : This was a Bar Raiser round. There was a discussion about past projects and some managerial questions.
-

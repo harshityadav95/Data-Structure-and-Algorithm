@@ -6,7 +6,7 @@ _2. Referral_
 
 _3. Approaching the recruiter on LinkedIn_
 
-## Microsoft @SD2 <a id="9414"></a>
+## Microsoft @SD2 <a href="#9414" id="9414"></a>
 
 I applied for Microsoft through referral. I had a total of 4 rounds. All the coding was done in a collaborative online editor.
 
@@ -21,5 +21,4 @@ I applied for Microsoft through referral. I had a total of 4 rounds. All the cod
 
 Reference :
 
-* \*\*\*\*[**Interview Experiencec:- Microsoft SDE II**](https://vedp568.medium.com/interview-experience-microsoft-sde-ii-b6f4de39baf8)\*\*\*\*
-
+* ****[**Interview Experiencec:- Microsoft SDE II**](https://vedp568.medium.com/interview-experience-microsoft-sde-ii-b6f4de39baf8)****
