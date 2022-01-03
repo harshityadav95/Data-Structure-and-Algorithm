@@ -1,12 +1,12 @@
 # Linked List
 
- 
+&#x20;
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](<.gitbook/assets/image (8).png>)
 
-* Contains Duplicate III \([Source](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/discuss/824603/Python-SortedList-O%28n-log-k%29-solution-explained.)\)
+* Contains Duplicate III ([Source](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/discuss/824603/Python-SortedList-O\(n-log-k\)-solution-explained.))
 
-```text
+```
 from sortedcontainers import SortedList
 
 class Solution:
@@ -23,4 +23,3 @@ class Solution:
         
         return False
 ```
-
